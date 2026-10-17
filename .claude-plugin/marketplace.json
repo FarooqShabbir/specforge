@@ -1,0 +1,8 @@
+{
+  "name": "specforge-marketplace",
+  "description": "SpecForge: plan-review-build workflow for Claude Code",
+  "owner": { "name": "Farooq Shabbir" },
+  "plugins": [
+    { "name": "specforge", "source": "./", "description": "End-to-end build workflow: plan, independent review, subagents, test-first milestones, gated deploys." }
+  ]
+}

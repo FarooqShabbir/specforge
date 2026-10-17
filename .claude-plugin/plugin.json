@@ -1,0 +1,9 @@
+{
+  "name": "specforge",
+  "displayName": "SpecForge",
+  "version": "1.0.0",
+  "description": "Builds complex software end to end with Claude Code: spec, plan, independent plan review, project-sized subagents, test-first milestones, deploy with human gates.",
+  "author": { "name": "Farooq Shabbir" },
+  "license": "MIT",
+  "keywords": ["workflow", "planning", "subagents", "full-stack", "devops"]
+}
