@@ -31,6 +31,10 @@ Claude also picks it up automatically for large build requests.
 claude plugin update specforge@specforge-marketplace
 ```
 
+## Privacy
+
+SpecForge does not collect, store, or send any data. It contains only instructions (a skill file) that run inside your own Claude Code session. It has no hooks, scripts, MCP servers, analytics, or network calls of its own. Any commands run while using it are run by Claude Code on your machine, under your own permission settings.
+
 ## License
 
 MIT
